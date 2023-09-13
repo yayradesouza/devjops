@@ -1,4 +1,4 @@
-export const Job = [
+export const Jobs = [
   {
     "id": 1,
     "company": "Scoot",
